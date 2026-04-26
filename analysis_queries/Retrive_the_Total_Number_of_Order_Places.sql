@@ -1,0 +1,2 @@
+SELECT COUNT(order_id) AS TOTAL_ORDERED
+FROM orders;
