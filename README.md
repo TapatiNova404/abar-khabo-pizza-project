@@ -1,4 +1,4 @@
-# 🍕 Abar Khabo Pizza Data Analysis Project
+# 🍕 pizza-data-analysis-sql
 
 ## 📌 Project Overview
 This project analyzes pizza sales data using SQL to find business insights like revenue, top-selling pizzas, and order patterns.
