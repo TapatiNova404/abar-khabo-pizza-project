@@ -33,7 +33,8 @@ This project analyzes pizza sales data using SQL to find business insights like 
 - data/ → CSV datasets  
 - sql/ → Table creation & data loading scripts  
 - analysis_queries/ → Business SQL queries  
-- screenshots/ → Output images  
+- screenshots/ → Output images
+    
 
 
 
@@ -42,3 +43,11 @@ This project analyzes pizza sales data using SQL to find business insights like 
 2. Run SQL/create_tables.sql
 3. Run SQL/insert_data.sql
 4. Execute analysis_queries files
+
+
+
+## 🚀 Conclusion
+This project helped me practice SQL concepts like JOIN, GROUP BY, HAVING, and window functions.
+
+## 👩‍💻 Author
+Tapati Paul
